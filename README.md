@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tymusss3
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning Python and c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord
 - 😄 Pronouns: him
