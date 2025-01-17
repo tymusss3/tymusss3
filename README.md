@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @tymusss3
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning Python and c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me discord
-- 😄 Pronouns: him
-- ⚡ Fun fact: I'm new programmer. 
+- 👋 Hi, I’m @tymusss3, I'm new programmer with strong ambivalence
 
 <!---
 tymusss3/tymusss3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
